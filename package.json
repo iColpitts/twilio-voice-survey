@@ -1,0 +1,17 @@
+{
+  "name": "origin-bot",
+  "version": "1.0.0",
+  "description": "Twilio bot testing for Origin Stories exhibt at DMG",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twilio": "^3.39.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izzie Colpitts-Campbell",
+  "license": "ISC"
+}
