@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node server.js"
+    "test": "node server.js",
+    "build": "echo \"Building your new static site!\""
   },
   "author": "Izzie Colpitts-Campbell",
   "license": "ISC"
