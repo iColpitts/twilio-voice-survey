@@ -7,3 +7,6 @@ yarn-error.log*
 lerna-debug.log*
 node_modules
 .env
+public
+.DS_Store
+public
